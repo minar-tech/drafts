@@ -1,0 +1,1 @@
+## Draft texts for MinarTech ##
