@@ -1,3 +1,3 @@
 ## Draft texts for MinarTech ##
 
-This folder is only for texts in markdown format.
+This repository is only for texts in markdown format.
